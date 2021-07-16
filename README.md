@@ -8,6 +8,8 @@ This part of the trial is done from my local machine after cloning the trial rep
 my local machine but not before working on my ssh keys.
 
 ### Process
-- create repository in github
+- create new repository in github
 - create a readme file and other files and commit those changes
-- make a pull request: brings it to local computer?
+- clone the file using the git clone command followed by the ssh to  bring repo to local computer.
+
+- for all other trial instructions see trial-repo2
